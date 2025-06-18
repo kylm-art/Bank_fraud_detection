@@ -92,6 +92,7 @@ Projet réalisé par les élèves ingénieurs statisticiens :
 ## 📌 Remarques
 
 * Ce projet utilise **Python 3.9+**
+Pour exécuter le fichier features_engineering.ipynb, créez un environnement virtuel (python -m venv venv_features), activez-le, puis installez les dépendances avec pip install -r requirements.txt. Après exécution du script, générez un fichier requirements_features.txt via pip freeze pour conserver la configuration des packages utilisés.
 
 ---
 
